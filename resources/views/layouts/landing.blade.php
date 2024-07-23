@@ -29,7 +29,7 @@
         <link rel="stylesheet" href="{{asset('assets/css/plugins/swiper-bundle.min.css')}}">
     
         <!-- Style CSS -->
-        <link rel="stylesheet" href="{{asset('assets/css/style.css?version=1.0')}}">
+        <link rel="stylesheet" href="{{asset('assets/css/style.css?version=1.1')}}">
     
     </head>
     
