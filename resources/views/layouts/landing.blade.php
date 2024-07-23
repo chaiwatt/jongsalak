@@ -62,7 +62,10 @@
                                     <li>
                                         <a href="product.html">สินค้า</a>
                                     </li>
-
+                                    <li class="has-sub-menu">
+                                        <a href="blog.html">การใช้งาน</a>
+    
+                                    </li>
                                     <li class="has-sub-menu">
                                         <a href="blog.html">ข่าวสาร</a>
     
