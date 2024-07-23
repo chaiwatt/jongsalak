@@ -316,7 +316,7 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
   }
 }
 .header.is-sticky .header-logo a {
-  width: 60px;
+  width: 120px;
 }
 .header-transparent {
   position: absolute;
@@ -369,6 +369,9 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
 }
 .header-logo a {
   position: relative;
+}
+.header-logo img {
+  width: 120px;
 }
 .header-logo a img.light {
   position: absolute;
@@ -2028,7 +2031,7 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
   }
 }
 .section-title2 .title {
-  font-weight: 600;
+  font-weight: 500;
   font-size: 45px;
   line-height: 45px;
   margin-bottom: 0;
