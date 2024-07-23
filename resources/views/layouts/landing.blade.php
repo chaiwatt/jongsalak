@@ -721,11 +721,9 @@
                     <div class="container">
                         <div class="row flex-row-reverse flex-md-row align-items-center">
                             <div class="col-md-6 text-center text-md-start">
-                                <p class="footer-copyright">© 2023 Droone. Made with <i class="icofont-heart"></i> by <a target="_blank" href="https://www.hasthemes.com/">HasThemes.</a></p>
+                                <p class="footer-copyright">© 2023-2024 JongSalak. Made with <i class="icofont-heart"></i> by <a target="_blank" href="https://www.jongsalak.com/">JONG SALAK.</a></p>
                             </div>
-                            <div class="col-md-6 text-center text-md-end mt-3 mt-md-0">
-                                <p class="footer-info-card"><a href="my-account.html"><img src="assets/images/photos/card.png" width="311" height="30" alt="Image"></a></p>
-                            </div>
+
                         </div>
                     </div>
                 </div>
