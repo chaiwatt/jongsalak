@@ -30,7 +30,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Rajdhani", sans-serif;
+  font-family: "Kanit", sans-serif;
   font-weight: 600;
   line-height: 1.2;
   margin-top: 0;
@@ -2028,9 +2028,9 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
   }
 }
 .section-title2 .title {
-  font-weight: 700;
-  font-size: 50px;
-  line-height: 50px;
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 45px;
   margin-bottom: 0;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -2046,7 +2046,7 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
 }
 @media only screen and (max-width: 767px) {
   .section-title2 .title {
-    font-size: 36px;
+    font-size: 32px ;
     line-height: 34px;
   }
 }
@@ -2187,6 +2187,7 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
   animation-fill-mode: both;
 }
 .hero-slide-content .hero-slide-title {
+ font-family: 'Rajdhani';
   font-weight: 700;
   font-size: 150px;
   line-height: 130px;
@@ -4001,7 +4002,7 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
   font-weight: 600;
   position: absolute;
   top: 12px;
-  font-family: "Rajdhani", sans-serif;
+  font-family: "Kanit", sans-serif;
   left: auto;
   right: 10px;
   line-height: 1;
@@ -4215,7 +4216,7 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
   background-color: #f1f1f1;
   color: #1f2226;
   border: none;
-  font-family: Rajdhani, sans-serif;
+  font-family: Kanit, sans-serif;
   font-size: 18px;
   border-radius: 50px;
   font-weight: 500;
@@ -4240,7 +4241,7 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
   background-color: #f1f1f1;
   color: #1f2226;
   border: none;
-  font-family: Rajdhani, sans-serif;
+  font-family: Kanit, sans-serif;
   font-size: 18px;
   border-radius: 50px;
   font-weight: 500;
@@ -5604,7 +5605,7 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
 }
 .cart-table thead > tr th {
   color: #1f2226;
-  font-family: "Rajdhani", sans-serif;
+  font-family: "Kanit", sans-serif;
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
@@ -7292,7 +7293,7 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
 }
 .off-canvas-wrapper .btn-menu-close {
   display: block;
-  font-family: "Rajdhani", sans-serif;
+  font-family: "Kanit", sans-serif;
   width: 100%;
   height: 60px;
   background-color: #d72323;
@@ -7499,7 +7500,7 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
   gap: 5px;
 }
 .product-deal-countdown .countdown-item .number {
-  font-family: "Rajdhani", sans-serif;
+  font-family: "Kanit", sans-serif;
   font-size: 36px;
   font-weight: 500;
   line-height: 1;
@@ -7712,7 +7713,7 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
 
 .shop-sidebar-toggle {
   font-size: 20px;
-  font-family: "Rajdhani", sans-serif;
+  font-family: "Kanit", sans-serif;
   font-weight: 500;
   line-height: 1.2;
   padding: 0 0 15px;

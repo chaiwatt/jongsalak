@@ -109,13 +109,13 @@
                                     <div class="row">
                                         <div class="col-sm-8 col-lg-6">
                                             <div class="hero-slide-content">
-                                                <h1 class="hero-slide-title"><span>Drone</span> Classic</h1>
-                                                <p class="hero-slide-desc">Experience the decibels like your ears deserve to. Safe for the ears, very for the heart.</p>
+                                                <h1 class="hero-slide-title"><span>JONG</span> SALAK</h1>
+                                                <p class="hero-slide-desc">กล่องกดจองสลากแอพเป๋าตังค์ (สลาก 80 บาท) รองรับโทรศัพท์ iOS ทุกเวอร์ชั่น และโทรศัพท์แอนดรอยด์ทุกรุ่นไม่ต้องรูทเครื่อง</p>
                                                 <div class="hero-slide-info">
-                                                    <a class="hero-slide-btn" href="product.html">Explore More</a>
+                                                    <a class="hero-slide-btn" href="product.html">สั่งซื้อ</a>
                                                     <div class="hero-slide-video-btn">
                                                         <a class="hero-slide-video-popup" data-fancybox data-type="iframe" href="https://www.youtube.com/watch?v=_9VUPq3SxOc"><i class="icofont-play"></i></a>
-                                                        <span>Watch Video</span>
+                                                        {{-- <span>Watch Video</span> --}}
                                                     </div>
                                                 </div>
                                             </div>
@@ -123,7 +123,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="swiper-slide hero-slide-item" data-bg-img="assets/images/slider/slider2.png">
+                            {{-- <div class="swiper-slide hero-slide-item" data-bg-img="assets/images/slider/slider2.png">
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-sm-8 col-lg-6">
@@ -141,8 +141,8 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="swiper-slide hero-slide-item" data-bg-img="assets/images/slider/slider3.png">
+                            </div> --}}
+                            {{-- <div class="swiper-slide hero-slide-item" data-bg-img="assets/images/slider/slider3.png">
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-sm-8 col-lg-6">
@@ -160,15 +160,15 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                         </div>
                         <!--== Add Pagination ==-->
                         <div class="hero-slider-pagination"></div>
                         <!--== Add Arrows ==-->
-                        <div class="hero-slider-arrows">
+                        {{-- <div class="hero-slider-arrows">
                             <div class="hero-slider-button-next"><i class="icofont-thin-up"></i></div>
                             <div class="hero-slider-button-prev"><i class="icofont-thin-down"></i></div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <!--== End: Hero Section Wrapper ==-->
@@ -184,7 +184,7 @@
                             <div class="col-lg-6 mb-8">
                                 <!--== Start: Section Title ==-->
                                 <div class="section-title mb-5">
-                                    <h6 class="sub-title">Feature About</h6>
+                                    <h6 class="sub-title">ฟังก์ชั่นใหม่</h6>
                                     <h2 class="title">Specializing in Drone.</h2>
                                     <div class="line"></div>
                                 </div>
@@ -238,7 +238,7 @@
                                 </div>
                                 <!--== End: Feature Box Item ==-->
     
-                                <a class="btn btn-primary btn-radius mt-5 mt-xl-10" href="product.html">Explore More</a>
+                                <a class="btn btn-primary btn-radius mt-5 mt-xl-10" href="product.html">สั่งซื้อ</a>
                             </div>
                         </div>
                     </div>
@@ -314,7 +314,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <a class="btn btn-primary btn-radius btn-border mt-4" href="product.html">View More</a>
+                                <a class="btn btn-primary btn-radius btn-border mt-4" href="product.html">เพิ่มเติม</a>
                             </div>
                             <div class="col-lg-6">
                                 <a href="product.html"><img src="assets/images/photos/photos2.png" width="590" height="650" alt="Image"></a>
@@ -444,8 +444,8 @@
                                 <div class="container-fluid container-1733">
                                     <!--== Start: Section Title ==-->
                                     <div class="section-title2 mb-12 text-center mt-n2">
-                                        <h6 class="sub-title">Shop Photos</h6>
-                                        <h2 class="title">Droon Gallery</h2>
+                                        <h6 class="sub-title">การตอบรับ</h6>
+                                        <h2 class="title">ลูกค้าของเรา</h2>
                                     </div>
                                     <!--== End: Section Title ==-->
                                     <div class="row mb-n6">
