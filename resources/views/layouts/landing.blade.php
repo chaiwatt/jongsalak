@@ -29,7 +29,7 @@
         <link rel="stylesheet" href="{{asset('assets/css/plugins/swiper-bundle.min.css')}}">
     
         <!-- Style CSS -->
-        <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
+        <link rel="stylesheet" href="{{asset('assets/css/style.css?version=1.0')}}">
     
     </head>
     
@@ -57,20 +57,17 @@
                             <nav class="main-menu justify-content-center position-relative">
                                 <ul>
                                     <li class="has-sub-menu">
-                                        <a href="index.html">Home</a>
+                                        <a href="index.html">หน้าหลัก</a>
                                     </li>
                                     <li>
-                                        <a href="product.html">Shop</a>
+                                        <a href="product.html">สินค้า</a>
                                     </li>
+
                                     <li class="has-sub-menu">
-                                        <a href="index.html">Pages</a>
+                                        <a href="blog.html">ข่าวสาร</a>
     
                                     </li>
-                                    <li class="has-sub-menu">
-                                        <a href="blog.html">Blog</a>
-    
-                                    </li>
-                                    <li><a href="contact.html">Contact Us</a></li>
+                                    <li><a href="contact.html">ติดต่อ</a></li>
                                 </ul>
                             </nav>
                             <!--== End: Menu ==-->
