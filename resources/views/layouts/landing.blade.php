@@ -721,7 +721,7 @@
                     <div class="container">
                         <div class="row flex-row-reverse flex-md-row align-items-center">
                             <div class="col-md-6 text-center text-md-start">
-                                <p class="footer-copyright">© 2023-2024 JongSalak. Made with <i class="icofont-heart"></i> by <a target="_blank" href="https://www.jongsalak.com/">JONG SALAK.</a></p>
+                                <p class="footer-copyright">© 2023-2024 JongSalak. Made with jongsalakofficial@gmail.com <i class="icofont-heart"></i> by <a target="_blank" href="https://www.jongsalak.com/">JONG SALAK.</a></p>
                             </div>
 
                         </div>
