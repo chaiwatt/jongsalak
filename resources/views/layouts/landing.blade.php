@@ -22,10 +22,13 @@
         <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
     
         <!-- Font CSS -->
-        <link rel="preconnect" href="https://fonts.googleapis.com/">
-        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&amp;family=Work+Sans:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
-    
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="preload" href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Work+Sans:wght@300;400;500;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript>
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Work+Sans:wght@300;400;500;600;700&display=swap">
+        </noscript>
+
         <!-- Vendor CSS (Bootstrap & Icon Font) -->
         <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
     
