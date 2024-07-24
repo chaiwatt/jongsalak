@@ -29,7 +29,7 @@
         <link rel="stylesheet" href="{{asset('assets/css/plugins/swiper-bundle.min.css')}}">
     
         <!-- Style CSS -->
-        <link rel="stylesheet" href="{{asset('assets/css/style.css?version=1.1')}}">
+        <link rel="stylesheet" href="{{asset('assets/css/style.min.css?version=1.1')}}">
     
     </head>
     
@@ -716,7 +716,7 @@
         <script src="{{asset('assets/js/plugins/swiper-bundle.min.js')}}"></script>
     
         <!-- Custom Main JS -->
-        <script src="{{asset('assets/js/main.js')}}"></script>
+        <script src="{{asset('assets/js/main.min.js')}}"></script>
     
     </body>
     
