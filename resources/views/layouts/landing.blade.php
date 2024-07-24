@@ -46,7 +46,6 @@
                             <div class="header-logo">
                                 <a href="index.html">
                                     <img src="assets/images/jongsalak_logo1.png" width="85" height="70" alt="logo">
-                                    {{-- <img class="light" src="assets/images/logo.png" width="85" height="70" alt="logo"> --}}
                                 </a>
                             </div>
                             <!--== End: Logo ==-->
@@ -115,7 +114,7 @@
                                                 <h1 class="hero-slide-title"><span>JONG</span> SALAK</h1>
                                                 <p class="hero-slide-desc">กล่องกดจองสลากแอพเป๋าตังค์ (สลาก 80 บาท) รองรับโทรศัพท์ iOS ทุกเวอร์ชั่น และโทรศัพท์แอนดรอยด์ทุกรุ่นไม่ต้องรูทเครื่อง</p>
                                                 <div class="hero-slide-info">
-                                                    <a class="hero-slide-btn" href="product.html">สั่งซื้อ</a>
+                                                    <a class="hero-slide-btn mr-4" href="product.html">สั่งซื้อ</a>
                                                     <div class="hero-slide-video-btn">
                                                         <a class="hero-slide-video-popup" data-fancybox data-type="iframe" href="https://www.youtube.com/watch?v=_9VUPq3SxOc"><i class="icofont-play"></i></a>
                                                         {{-- <span>Watch Video</span> --}}
@@ -126,52 +125,10 @@
                                     </div>
                                 </div>
                             </div>
-                            {{-- <div class="swiper-slide hero-slide-item" data-bg-img="assets/images/slider/slider2.png">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-sm-8 col-lg-6">
-                                            <div class="hero-slide-content">
-                                                <h1 class="hero-slide-title"><span>Drone</span> Minimal</h1>
-                                                <p class="hero-slide-desc">Experience the decibels like your ears deserve to. Safe for the ears, very for the heart.</p>
-                                                <div class="hero-slide-info">
-                                                    <a class="hero-slide-btn" href="product.html">Explore More</a>
-                                                    <div class="hero-slide-video-btn">
-                                                        <a class="hero-slide-video-popup" data-fancybox data-type="iframe" href="https://www.youtube.com/watch?v=_9VUPq3SxOc"><i class="icofont-play"></i></a>
-                                                        <span>Watch Video</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> --}}
-                            {{-- <div class="swiper-slide hero-slide-item" data-bg-img="assets/images/slider/slider3.png">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-sm-8 col-lg-6">
-                                            <div class="hero-slide-content">
-                                                <h1 class="hero-slide-title"><span>Drone</span> Digital</h1>
-                                                <p class="hero-slide-desc">Experience the decibels like your ears deserve to. Safe for the ears, very for the heart.</p>
-                                                <div class="hero-slide-info">
-                                                    <a class="hero-slide-btn" href="product.html">Explore More</a>
-                                                    <div class="hero-slide-video-btn">
-                                                        <a class="hero-slide-video-popup" data-fancybox data-type="iframe" href="https://www.youtube.com/watch?v=_9VUPq3SxOc"><i class="icofont-play"></i></a>
-                                                        <span>Watch Video</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> --}}
+                    
                         </div>
                         <!--== Add Pagination ==-->
                         <div class="hero-slider-pagination"></div>
-                        <!--== Add Arrows ==-->
-                        {{-- <div class="hero-slider-arrows">
-                            <div class="hero-slider-button-next"><i class="icofont-thin-up"></i></div>
-                            <div class="hero-slider-button-prev"><i class="icofont-thin-down"></i></div>
-                        </div> --}}
                     </div>
                 </div>
                 <!--== End: Hero Section Wrapper ==-->
@@ -459,9 +416,9 @@
                 
                                                         <!--== Start: Gallery Item ==-->
                                                         <div class="gallery-item">
-                                                            <a href="product.html" class="gallery-image">
-                                                                <img class="w-100" src="assets/images/gallery/image-1.png" width="500" height="600" alt="Single Gallery Name">
-                                                            </a>
+                                                            {{-- <a href="product.html" class="gallery-image"> --}}
+                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                            {{-- </a> --}}
                                                         </div>
                                                         <!--== End: Gallery Item ==-->
                 
@@ -470,9 +427,9 @@
                 
                                                         <!--== Start: Gallery Item ==-->
                                                         <div class="gallery-item">
-                                                            <a href="product.html" class="gallery-image">
-                                                                <img class="w-100" src="assets/images/gallery/image-2.png" width="500" height="600" alt="Single Gallery Name">
-                                                            </a>
+                                                            {{-- <a href="product.html" class="gallery-image"> --}}
+                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                            {{-- </a> --}}
                                                         </div>
                                                         <!--== End: Gallery Item ==-->
                 
@@ -481,9 +438,9 @@
                 
                                                         <!--== Start: Gallery Item ==-->
                                                         <div class="gallery-item">
-                                                            <a href="product.html" class="gallery-image">
-                                                                <img class="w-100" src="assets/images/gallery/image-3.png" width="500" height="600" alt="Single Gallery Name">
-                                                            </a>
+                                                            {{-- <a href="product.html" class="gallery-image"> --}}
+                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                            {{-- </a> --}}
                                                         </div>
                                                         <!--== End: Gallery Item ==-->
                 
@@ -492,9 +449,9 @@
                 
                                                         <!--== Start: Gallery Item ==-->
                                                         <div class="gallery-item">
-                                                            <a href="product.html" class="gallery-image">
-                                                                <img class="w-100" src="assets/images/gallery/image-4.png" width="500" height="600" alt="Single Gallery Name">
-                                                            </a>
+                                                            {{-- <a href="product.html" class="gallery-image"> --}}
+                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                            {{-- </a> --}}
                                                         </div>
                                                         <!--== End: Gallery Item ==-->
                 
@@ -503,9 +460,9 @@
                 
                                                         <!--== Start: Gallery Item ==-->
                                                         <div class="gallery-item">
-                                                            <a href="product.html" class="gallery-image">
-                                                                <img class="w-100" src="assets/images/gallery/image-5.png" width="500" height="600" alt="Single Gallery Name">
-                                                            </a>
+                                                            {{-- <a href="product.html" class="gallery-image"> --}}
+                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                            {{-- </a> --}}
                                                         </div>
                                                         <!--== End: Gallery Item ==-->
                 
@@ -514,9 +471,9 @@
                 
                                                         <!--== Start: Gallery Item ==-->
                                                         <div class="gallery-item">
-                                                            <a href="product.html" class="gallery-image">
-                                                                <img class="w-100" src="assets/images/gallery/image-6.png" width="500" height="600" alt="Single Gallery Name">
-                                                            </a>
+                                                            {{-- <a href="product.html" class="gallery-image"> --}}
+                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                            {{-- </a> --}}
                                                         </div>
                                                         <!--== End: Gallery Item ==-->
                 
@@ -525,9 +482,9 @@
                 
                                                         <!--== Start: Gallery Item ==-->
                                                         <div class="gallery-item">
-                                                            <a href="product.html" class="gallery-image">
-                                                                <img class="w-100" src="assets/images/gallery/image-7.png" width="500" height="600" alt="Single Gallery Name">
-                                                            </a>
+                                                            {{-- <a href="product.html" class="gallery-image"> --}}
+                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                            {{-- </a> --}}
                                                         </div>
                                                         <!--== End: Gallery Item ==-->
                 
@@ -536,9 +493,9 @@
                 
                                                         <!--== Start: Gallery Item ==-->
                                                         <div class="gallery-item">
-                                                            <a href="product.html" class="gallery-image">
-                                                                <img class="w-100" src="assets/images/gallery/image-8.png" width="500" height="600" alt="Single Gallery Name">
-                                                            </a>
+                                                            {{-- <a href="product.html" class="gallery-image"> --}}
+                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                            {{-- </a> --}}
                                               
                                                         </div>
                                                         <!--== End: Gallery Item ==-->
@@ -572,7 +529,7 @@
                                             <!--== Start: News Post Item ==-->
                                             <div class="post-item">
                                                 <a href="blog-details.html" class="image mb-4">
-                                                    <img src="assets/images/blog/image-1.jpg" width="600" height="400" alt="Image">
+                                                    <img src="assets/images/blog/image-1.webp" width="600" height="400" alt="Image">
                                                 </a>
                                                 <div class="content">
                                                     <h4 class="title line-bottom"><a href="blog-details.html">Drone Photography Tips</a></h4>
@@ -581,7 +538,7 @@
                                                         <li class="post-comment"><a href="blog.html">0 comments</a></li>
                                                     </ul>
                                                     <p class="desc">The summer holidays are wonderful. Dressing for them can be significantly less so: Packing light...</p>
-                                                    <a class="btn btn-border-grey btn-radius btn-light" href="blog.html">Explore More</a>
+                                                    <a class="btn btn-border-grey btn-radius btn-light" href="blog.html">เพิ่มเติม</a>
                                                 </div>
                                             </div>
                                             <!--== End: News Post Item ==-->
@@ -590,7 +547,7 @@
                                             <!--== Start: News Post Item ==-->
                                             <div class="post-item">
                                                 <a href="blog-details.html" class="image mb-4">
-                                                    <img src="assets/images/blog/image-2.jpg" width="600" height="400" alt="Image">
+                                                    <img src="assets/images/blog/image-2.webp" width="600" height="400" alt="Image">
                                                 </a>
                                                 <div class="content">
                                                     <h4 class="title line-bottom"><a href="blog-details.html">Photography Tips From Wai Su</a></h4>
@@ -599,7 +556,7 @@
                                                         <li class="post-comment"><a href="blog.html">1 comments</a></li>
                                                     </ul>
                                                     <p class="desc">The summer holidays are wonderful. Dressing for them can be significantly less so: Packing light...</p>
-                                                    <a class="btn btn-border-grey btn-radius btn-light" href="blog.html">Explore More</a>
+                                                    <a class="btn btn-border-grey btn-radius btn-light" href="blog.html">เพิ่มเติม</a>
                                                 </div>
                                             </div>
                                             <!--== End: News Post Item ==-->
@@ -608,7 +565,7 @@
                                             <!--== Start: News Post Item ==-->
                                             <div class="post-item">
                                                 <a href="blog-details.html" class="image mb-4">
-                                                    <img src="assets/images/blog/image-3.jpg" width="600" height="400" alt="Image">
+                                                    <img src="assets/images/blog/image-3.webp" width="600" height="400" alt="Image">
                                                 </a>
                                                 <div class="content">
                                                     <h4 class="title line-bottom"><a href="blog-details.html">Photography Tips From Wai Su</a></h4>
@@ -617,7 +574,7 @@
                                                         <li class="post-comment"><a href="blog.html">3 comments</a></li>
                                                     </ul>
                                                     <p class="desc">The summer holidays are wonderful. Dressing for them can be significantly less so: Packing light...</p>
-                                                    <a class="btn btn-border-grey btn-radius btn-light" href="blog.html">Explore More</a>
+                                                    <a class="btn btn-border-grey btn-radius btn-light" href="blog.html">เพิ่มเติม</a>
                                                 </div>
                                             </div>
                                             <!--== End: News Post Item ==-->
@@ -635,7 +592,7 @@
                                                         <li class="post-comment"><a href="blog.html">0 comments</a></li>
                                                     </ul>
                                                     <p class="desc">The summer holidays are wonderful. Dressing for them can be significantly less so: Packing light...</p>
-                                                    <a class="btn btn-border-grey btn-radius btn-light" href="blog.html">Explore More</a>
+                                                    <a class="btn btn-border-grey btn-radius btn-light" href="blog.html">เพิ่มเติม</a>
                                                 </div>
                                             </div>
                                             <!--== End: News Post Item ==-->
@@ -653,7 +610,7 @@
                                                         <li class="post-comment"><a href="blog.html">1 comments</a></li>
                                                     </ul>
                                                     <p class="desc">The summer holidays are wonderful. Dressing for them can be significantly less so: Packing light...</p>
-                                                    <a class="btn btn-border-grey btn-radius btn-light" href="blog.html">Explore More</a>
+                                                    <a class="btn btn-border-grey btn-radius btn-light" href="blog.html">เพิ่มเติม</a>
                                                 </div>
                                             </div>
                                             <!--== End: News Post Item ==-->
@@ -671,7 +628,7 @@
                                                         <li class="post-comment"><a href="blog.html">3 comments</a></li>
                                                     </ul>
                                                     <p class="desc">The summer holidays are wonderful. Dressing for them can be significantly less so: Packing light...</p>
-                                                    <a class="btn btn-border-grey btn-radius btn-light" href="blog.html">Explore More</a>
+                                                    <a class="btn btn-border-grey btn-radius btn-light" href="blog.html">เพิ่มเติม</a>
                                                 </div>
                                             </div>
                                             <!--== End: News Post Item ==-->
@@ -689,7 +646,7 @@
                                                         <li class="post-comment"><a href="blog.html">0 comments</a></li>
                                                     </ul>
                                                     <p class="desc">The summer holidays are wonderful. Dressing for them can be significantly less so: Packing light...</p>
-                                                    <a class="btn btn-border-grey btn-radius btn-light" href="blog.html">Explore More</a>
+                                                    <a class="btn btn-border-grey btn-radius btn-light" href="blog.html">เพิ่มเติม</a>
                                                 </div>
                                             </div>
                                             <!--== End: News Post Item ==-->
