@@ -86,7 +86,7 @@
                         <div class="col-6 col-xl-2 col-lg-3">
                             <div class="header-action justify-content-end">
                                 <div class="header-action-item dropdown">
-                                    <button class="header-action-toggle" type="button" data-bs-toggle="dropdown"><i class="icofont-gear-alt"></i></button>
+                                    <button class="header-action-toggle" type="button" data-bs-toggle="dropdown" aria-label="account button"><i class="icofont-gear-alt"></i></button>
                                     <div class="dropdown-menu header-dropdown-menu">
                                         <h6 class="header-dropdown-menu-title">Account</h6>
                                         <ul>
@@ -124,7 +124,7 @@
                                                 <div class="hero-slide-info">
                                                     <a class="hero-slide-btn mr-4" href="product.html">สั่งซื้อ</a>
                                                     <div class="hero-slide-video-btn">
-                                                        <a class="hero-slide-video-popup" data-fancybox data-type="iframe" href="https://www.youtube.com/watch?v=_9VUPq3SxOc"><i class="icofont-play"></i></a>
+                                                        <a class="hero-slide-video-popup" data-fancybox data-type="iframe" href="https://www.youtube.com/watch?v=_9VUPq3SxOc" aria-label="play popup video"><i class="icofont-play"></i></a>
                                                         {{-- <span>Watch Video</span> --}}
                                                     </div>
                                                 </div>
