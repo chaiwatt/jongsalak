@@ -156,7 +156,7 @@
                                 <!--== Start: Section Title ==-->
                                 <div class="section-title mb-5">
                                     <h6 class="sub-title">ฟังก์ชั่นใหม่</h6>
-                                    <h2 class="title">Specializing in Drone.</h2>
+                                    <h2 class="title">ฟังก์ชั่นทำงาน</h2>
                                     <div class="line"></div>
                                 </div>
                                 <!--== End: Section Title ==-->
