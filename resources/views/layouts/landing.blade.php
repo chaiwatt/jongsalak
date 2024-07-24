@@ -411,7 +411,7 @@
                 <!--== End: Features Section Wrapper ==-->
     
                 <!--== Start: Gallery Section Wrapper ==-->
-                <div class="gallery-section section-padding-b mb-0">
+                <div class="gallery-section section-padding-b">
                     <div class="container-fluid container-1733">
                         <!--== Start: Section Title ==-->
                         <div class="section-title2 mb-12 text-center mt-n2">
@@ -524,7 +524,7 @@
                 <!--== End: Gallery Section Wrapper ==-->
     
                 <!--== Start: Blog Section Wrapper ==-->
-                <div class="blog-section mt-0" >
+                <div class="blog-section section-padding-b" >
                     <div class="container">
                         <!--== Start: Section Title ==-->
                         <div class="section-title2 mb-12 text-center mt-n2">
