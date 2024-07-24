@@ -53,7 +53,7 @@
                             <!--== Start: Logo ==-->
                             <div class="header-logo">
                                 <a href="index.html">
-                                    <img src="assets/images/jongsalak_logo1.png" width="85" height="70" alt="logo">
+                                    <img src="assets/images/jongsalak_logo1.webp" width="85" height="70" alt="logo">
                                 </a>
                             </div>
                             <!--== End: Logo ==-->
