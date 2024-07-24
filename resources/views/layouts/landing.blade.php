@@ -106,7 +106,7 @@
                 <div class="hero-slider-section position-relative">
                     <div class="swiper hero-slider-container">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide hero-slide-item" data-bg-img="assets/images/slider/slider1.png">
+                            <div class="swiper-slide hero-slide-item" data-bg-img="assets/images/slider/slider1.webp">
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-sm-8 col-lg-6">
@@ -139,7 +139,7 @@
                     <div class="container">
                         <div class="row gy-4">
                             <div class="col-lg-6 mb-8 text-center text-lg-start">
-                                <a href="product.html"><img src="assets/images/photos/about1.png" width="555" height="611" alt="Image"></a>
+                                <a href="product.html"><img src="assets/images/photos/about1.webp" width="555" height="611" alt="Image"></a>
                             </div>
                             <div class="col-lg-6 mb-8">
                                 <!--== Start: Section Title ==-->
@@ -207,7 +207,7 @@
     
     
                 <!--== Start: Features Section Wrapper ==-->
-                <div class="features-section bgc-fb section-padding" data-bg-img="assets/images/photos/bg1.png">
+                <div class="features-section bgc-fb section-padding" data-bg-img="assets/images/photos/bg1.webp">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6">
@@ -277,7 +277,7 @@
                                 <a class="btn btn-primary btn-radius btn-border mt-4" href="product.html">เพิ่มเติม</a>
                             </div>
                             <div class="col-lg-6">
-                                <a href="product.html"><img src="assets/images/photos/photos2.png" width="590" height="650" alt="Image"></a>
+                                <a href="product.html"><img src="assets/images/photos/photos2.webp" width="590" height="650" alt="Image"></a>
                             </div>
                         </div>
                     </div>
@@ -344,7 +344,7 @@
                             </div>
                             <div class="col-lg-6 mb-9">
                                 <a href="product.html">
-                                    <img class="w-100" src="assets/images/photos/photos1.png" alt="Image">
+                                    <img class="w-100" src="assets/images/photos/photos1.webp" alt="Image">
                                 </a>
                             </div>
                             <div class="col-lg-3 mb-5">
