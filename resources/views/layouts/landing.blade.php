@@ -74,7 +74,7 @@
     
                                     </li>
                                     <li>
-                                        <a href="#">สินค้า</a>
+                                        <a href="#">สั่งซื้อ</a>
                                     </li>
                                     <li class="has-sub-menu">
                                         <a href="#">การใช้งาน</a>
