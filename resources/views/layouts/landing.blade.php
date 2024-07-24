@@ -55,7 +55,7 @@
                         <div class="col-6 col-xl-2 col-lg-2">
                             <!--== Start: Logo ==-->
                             <div class="header-logo">
-                                <a href="index.html">
+                                <a href="{{url('/')}}">
                                     <img src="assets/images/jongsalak_logo1.webp" width="85" height="70" alt="logo">
                                 </a>
                             </div>
