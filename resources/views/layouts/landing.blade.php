@@ -146,7 +146,7 @@
     
     
                 <!--== Start: Feature About Section Wrapper ==-->
-                <div class="feature-about-section section-padding">
+                <div class="feature-about-section section-padding pt-0">
                     <div class="container">
                         <div class="row gy-4">
                             <div class="col-lg-6 mb-8 text-center text-lg-start">
@@ -297,7 +297,7 @@
     
     
                 <!--== Start: Features Section Wrapper ==-->
-                <div class="features-section section-padding">
+                <div class="features-section section-padding pt-4">
                     <div class="container">
                         <!--== Start: Section Title ==-->
                         <div class="section-title2 text-center mt-n2">
@@ -410,121 +410,121 @@
                 </div>
                 <!--== End: Features Section Wrapper ==-->
     
-                            <!--== Start: Gallery Section Wrapper ==-->
-                            <div class="gallery-section section-padding-b">
-                                <div class="container-fluid container-1733">
-                                    <!--== Start: Section Title ==-->
-                                    <div class="section-title2 mb-12 text-center mt-n2">
-                                        <h6 class="sub-title">การตอบรับ</h6>
-                                        <h2 class="title">ลูกค้าของเรา</h2>
-                                    </div>
-                                    <!--== End: Section Title ==-->
-                                    <div class="row mb-n6">
-                                        <div class="col-12 swiper-button-wrap">
-                                            <div class="swiper gallery-slider-container">
-                                                <div class="swiper-wrapper">
-                                                    <div class="swiper-slide">
-                
-                                                        <!--== Start: Gallery Item ==-->
-                                                        <div class="gallery-item">
-                                                            {{-- <a href="product.html" class="gallery-image"> --}}
-                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
-                                                            {{-- </a> --}}
-                                                        </div>
-                                                        <!--== End: Gallery Item ==-->
-                
-                                                    </div>
-                                                    <div class="swiper-slide">
-                
-                                                        <!--== Start: Gallery Item ==-->
-                                                        <div class="gallery-item">
-                                                            {{-- <a href="product.html" class="gallery-image"> --}}
-                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
-                                                            {{-- </a> --}}
-                                                        </div>
-                                                        <!--== End: Gallery Item ==-->
-                
-                                                    </div>
-                                                    <div class="swiper-slide">
-                
-                                                        <!--== Start: Gallery Item ==-->
-                                                        <div class="gallery-item">
-                                                            {{-- <a href="product.html" class="gallery-image"> --}}
-                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
-                                                            {{-- </a> --}}
-                                                        </div>
-                                                        <!--== End: Gallery Item ==-->
-                
-                                                    </div>
-                                                    <div class="swiper-slide">
-                
-                                                        <!--== Start: Gallery Item ==-->
-                                                        <div class="gallery-item">
-                                                            {{-- <a href="product.html" class="gallery-image"> --}}
-                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
-                                                            {{-- </a> --}}
-                                                        </div>
-                                                        <!--== End: Gallery Item ==-->
-                
-                                                    </div>
-                                                    <div class="swiper-slide">
-                
-                                                        <!--== Start: Gallery Item ==-->
-                                                        <div class="gallery-item">
-                                                            {{-- <a href="product.html" class="gallery-image"> --}}
-                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
-                                                            {{-- </a> --}}
-                                                        </div>
-                                                        <!--== End: Gallery Item ==-->
-                
-                                                    </div>
-                                                    <div class="swiper-slide">
-                
-                                                        <!--== Start: Gallery Item ==-->
-                                                        <div class="gallery-item">
-                                                            {{-- <a href="product.html" class="gallery-image"> --}}
-                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
-                                                            {{-- </a> --}}
-                                                        </div>
-                                                        <!--== End: Gallery Item ==-->
-                
-                                                    </div>
-                                                    <div class="swiper-slide">
-                
-                                                        <!--== Start: Gallery Item ==-->
-                                                        <div class="gallery-item">
-                                                            {{-- <a href="product.html" class="gallery-image"> --}}
-                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
-                                                            {{-- </a> --}}
-                                                        </div>
-                                                        <!--== End: Gallery Item ==-->
-                
-                                                    </div>
-                                                    <div class="swiper-slide">
-                
-                                                        <!--== Start: Gallery Item ==-->
-                                                        <div class="gallery-item">
-                                                            {{-- <a href="product.html" class="gallery-image"> --}}
-                                                                <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
-                                                            {{-- </a> --}}
-                                              
-                                                        </div>
-                                                        <!--== End: Gallery Item ==-->
-                
-                                                    </div>
-                                                </div>
+                <!--== Start: Gallery Section Wrapper ==-->
+                <div class="gallery-section section-padding-b mb-0">
+                    <div class="container-fluid container-1733">
+                        <!--== Start: Section Title ==-->
+                        <div class="section-title2 mb-12 text-center mt-n2">
+                            <h6 class="sub-title">การตอบรับ</h6>
+                            <h2 class="title">ลูกค้าของเรา</h2>
+                        </div>
+                        <!--== End: Section Title ==-->
+                        <div class="row mb-n6">
+                            <div class="col-12 swiper-button-wrap">
+                                <div class="swiper gallery-slider-container">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+    
+                                            <!--== Start: Gallery Item ==-->
+                                            <div class="gallery-item">
+                                                {{-- <a href="product.html" class="gallery-image"> --}}
+                                                    <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                {{-- </a> --}}
                                             </div>
-                                            <!--== Add Arrows ==-->
-                                            <div class="swiper-button-st2 prev gallery-swiper-button-prev"><i class="icofont-thin-left"></i></div>
-                                            <div class="swiper-button-st2 next gallery-swiper-button-next"><i class="icofont-thin-right"></i></div>
+                                            <!--== End: Gallery Item ==-->
+    
+                                        </div>
+                                        <div class="swiper-slide">
+    
+                                            <!--== Start: Gallery Item ==-->
+                                            <div class="gallery-item">
+                                                {{-- <a href="product.html" class="gallery-image"> --}}
+                                                    <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                {{-- </a> --}}
+                                            </div>
+                                            <!--== End: Gallery Item ==-->
+    
+                                        </div>
+                                        <div class="swiper-slide">
+    
+                                            <!--== Start: Gallery Item ==-->
+                                            <div class="gallery-item">
+                                                {{-- <a href="product.html" class="gallery-image"> --}}
+                                                    <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                {{-- </a> --}}
+                                            </div>
+                                            <!--== End: Gallery Item ==-->
+    
+                                        </div>
+                                        <div class="swiper-slide">
+    
+                                            <!--== Start: Gallery Item ==-->
+                                            <div class="gallery-item">
+                                                {{-- <a href="product.html" class="gallery-image"> --}}
+                                                    <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                {{-- </a> --}}
+                                            </div>
+                                            <!--== End: Gallery Item ==-->
+    
+                                        </div>
+                                        <div class="swiper-slide">
+    
+                                            <!--== Start: Gallery Item ==-->
+                                            <div class="gallery-item">
+                                                {{-- <a href="product.html" class="gallery-image"> --}}
+                                                    <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                {{-- </a> --}}
+                                            </div>
+                                            <!--== End: Gallery Item ==-->
+    
+                                        </div>
+                                        <div class="swiper-slide">
+    
+                                            <!--== Start: Gallery Item ==-->
+                                            <div class="gallery-item">
+                                                {{-- <a href="product.html" class="gallery-image"> --}}
+                                                    <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                {{-- </a> --}}
+                                            </div>
+                                            <!--== End: Gallery Item ==-->
+    
+                                        </div>
+                                        <div class="swiper-slide">
+    
+                                            <!--== Start: Gallery Item ==-->
+                                            <div class="gallery-item">
+                                                {{-- <a href="product.html" class="gallery-image"> --}}
+                                                    <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                {{-- </a> --}}
+                                            </div>
+                                            <!--== End: Gallery Item ==-->
+    
+                                        </div>
+                                        <div class="swiper-slide">
+    
+                                            <!--== Start: Gallery Item ==-->
+                                            <div class="gallery-item">
+                                                {{-- <a href="product.html" class="gallery-image"> --}}
+                                                    <img class="w-100" src="assets/images/gallery/testimonial.webp" width="500" height="600" alt="Single Gallery Name">
+                                                {{-- </a> --}}
+                                    
+                                            </div>
+                                            <!--== End: Gallery Item ==-->
+    
                                         </div>
                                     </div>
                                 </div>
+                                <!--== Add Arrows ==-->
+                                <div class="swiper-button-st2 prev gallery-swiper-button-prev"><i class="icofont-thin-left"></i></div>
+                                <div class="swiper-button-st2 next gallery-swiper-button-next"><i class="icofont-thin-right"></i></div>
                             </div>
-                            <!--== End: Gallery Section Wrapper ==-->
+                        </div>
+                    </div>
+                </div>
+                <!--== End: Gallery Section Wrapper ==-->
     
                 <!--== Start: Blog Section Wrapper ==-->
-                <div class="blog-section section-padding">
+                <div class="blog-section mt-0" >
                     <div class="container">
                         <!--== Start: Section Title ==-->
                         <div class="section-title2 mb-12 text-center mt-n2">
