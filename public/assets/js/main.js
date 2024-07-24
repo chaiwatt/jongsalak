@@ -418,16 +418,16 @@
     });
 
   // Price Range
-    if($('#price-range')) {
-      $('#price-range').ionRangeSlider({
-        type: "double",
-        min: 0,
-        max: 2000,
-        from: 200,
-        to: 1000,
-        prefix: "$"
-      });
-    }
+    // if($('#price-range')) {
+    //   $('#price-range').ionRangeSlider({
+    //     type: "double",
+    //     min: 0,
+    //     max: 2000,
+    //     from: 200,
+    //     to: 1000,
+    //     prefix: "$"
+    //   });
+    // }
 
   // Sticky Sidebar
     $('.sidebar').stickySidebar({

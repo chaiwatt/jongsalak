@@ -648,8 +648,8 @@
     
         <!-- Plugins JS -->
         <script src="{{asset('assets/js/plugins/fancybox.min.js')}}"></script>
-        <script src="{{asset('assets/js/plugins/ion.rangeSlider.min.js')}}"></script>
-        <script src="{{asset('assets/js/plugins/jquery.countdown.min.js')}}"></script>
+        {{-- <script src="{{asset('assets/js/plugins/ion.rangeSlider.min.js')}}"></script> --}}
+        {{-- <script src="{{asset('assets/js/plugins/jquery.countdown.min.js')}}"></script> --}}
         <script src="{{asset('assets/js/plugins/jquery.sticky-sidebar.min.js')}}"></script>
         <script src="{{asset('assets/js/plugins/jquery.zoom.min.js')}}"></script>
         <script src="{{asset('assets/js/plugins/swiper-bundle.min.js')}}"></script>
