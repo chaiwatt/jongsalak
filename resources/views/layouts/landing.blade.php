@@ -171,7 +171,7 @@
                                     <!--== Start: Feature Box Item ==-->
                                     <div class="feature-box3-item">
                                         <div class="feature-box3-icon">
-                                            <img class="feature-box3-icon-img" src="assets/images/icons/feature3-1.png" width="70" height="70" alt="Mobile Device Supported">
+                                            <img class="feature-box3-icon-img" src="assets/images/icons/feature3-1.webp" width="70" height="70" alt="Mobile Device Supported">
                                         </div>
                                         <div class="feature-box3-content">
                                             <h4 class="feature-box3-title">Mobile Device Supported</h4>
@@ -188,7 +188,7 @@
                                     <!--== Start: Feature Box Item ==-->
                                     <div class="feature-box3-item">
                                         <div class="feature-box3-icon">
-                                            <img class="feature-box3-icon-img" src="assets/images/icons/feature3-2.png" width="70" height="70" alt="Easy integrative control">
+                                            <img class="feature-box3-icon-img" src="assets/images/icons/feature3-2.webp" width="70" height="70" alt="Easy integrative control">
                                         </div>
                                         <div class="feature-box3-content">
                                             <h4 class="feature-box3-title">Easy integrative control</h4>
@@ -204,7 +204,7 @@
                                 <!--== Start: Feature Box Item ==-->
                                 <div class="feature-box3-item">
                                     <div class="feature-box3-icon">
-                                        <img class="feature-box3-icon-img" src="assets/images/icons/feature3-3.png" width="70" height="70" alt="Customized Commands">
+                                        <img class="feature-box3-icon-img" src="assets/images/icons/feature3-3.webp" width="70" height="70" alt="Customized Commands">
                                     </div>
                                     <div class="feature-box3-content">
                                         <h4 class="feature-box3-title">Customized Commands</h4>
@@ -236,7 +236,7 @@
                                 <div class="drone-all-feature">
                                     <div class="feature-box4-item pe-4 mb-4">
                                         <div class="feature-box4-icon">
-                                            <img class="feature-box4-icon-img" src="assets/images/icons/1.png" width="45" height="45" alt="Image">
+                                            <img class="feature-box4-icon-img" src="assets/images/icons/1.webp" width="45" height="45" alt="Image">
                                         </div>
                                         <div class="feature-box4-content">
                                             <h4 class="feature-box4-title">30 Mins</h4>
@@ -245,7 +245,7 @@
                                     </div>
                                     <div class="feature-box4-item pe-4 mb-4">
                                         <div class="feature-box4-icon">
-                                            <img class="feature-box4-icon-img" src="assets/images/icons/2.png" width="45" height="45" alt="Image">
+                                            <img class="feature-box4-icon-img" src="assets/images/icons/2.webp" width="45" height="45" alt="Image">
                                         </div>
                                         <div class="feature-box4-content">
                                             <h4 class="feature-box4-title">4K 65fps</h4>
@@ -254,7 +254,7 @@
                                     </div>
                                     <div class="feature-box4-item pe-4 mb-4">
                                         <div class="feature-box4-icon">
-                                            <img class="feature-box4-icon-img" src="assets/images/icons/3.png" width="45" height="45" alt="Image">
+                                            <img class="feature-box4-icon-img" src="assets/images/icons/3.webp" width="45" height="45" alt="Image">
                                         </div>
                                         <div class="feature-box4-content">
                                             <h4 class="feature-box4-title">72 KM/H</h4>
@@ -263,7 +263,7 @@
                                     </div>
                                     <div class="feature-box4-item pe-4 mb-4">
                                         <div class="feature-box4-icon">
-                                            <img class="feature-box4-icon-img" src="assets/images/icons/4.png" width="45" height="45" alt="Image">
+                                            <img class="feature-box4-icon-img" src="assets/images/icons/4.webp" width="45" height="45" alt="Image">
                                         </div>
                                         <div class="feature-box4-content">
                                             <h4 class="feature-box4-title">300 Meter</h4>
@@ -272,7 +272,7 @@
                                     </div>
                                     <div class="feature-box4-item pe-4 mb-4">
                                         <div class="feature-box4-icon">
-                                            <img class="feature-box4-icon-img" src="assets/images/icons/5.png" width="45" height="45" alt="Image">
+                                            <img class="feature-box4-icon-img" src="assets/images/icons/5.webp" width="45" height="45" alt="Image">
                                         </div>
                                         <div class="feature-box4-content">
                                             <h4 class="feature-box4-title">10 KM</h4>
@@ -281,7 +281,7 @@
                                     </div>
                                     <div class="feature-box4-item pe-4 mb-4">
                                         <div class="feature-box4-icon">
-                                            <img class="feature-box4-icon-img" src="assets/images/icons/6.png" width="45" height="45" alt="Image">
+                                            <img class="feature-box4-icon-img" src="assets/images/icons/6.webp" width="45" height="45" alt="Image">
                                         </div>
                                         <div class="feature-box4-content">
                                             <h4 class="feature-box4-title">5 Direction</h4>
