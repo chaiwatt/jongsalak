@@ -67,20 +67,24 @@
                             <nav class="main-menu justify-content-center position-relative">
                                 <ul>
                                     <li class="has-sub-menu">
-                                        <a href="index.html">หน้าหลัก</a>
+                                        <a href="{{url('/')}}">หน้าหลัก</a>
+                                    </li>
+                                    <li class="has-sub-menu">
+                                        <a href="#">โปรแกรมจองสลาก</a>
+    
                                     </li>
                                     <li>
-                                        <a href="product.html">สินค้า</a>
+                                        <a href="#">สินค้า</a>
                                     </li>
                                     <li class="has-sub-menu">
-                                        <a href="blog.html">การใช้งาน</a>
+                                        <a href="#">การใช้งาน</a>
     
                                     </li>
                                     <li class="has-sub-menu">
-                                        <a href="blog.html">ข่าวสาร</a>
+                                        <a href="#">ข่าวสาร</a>
     
                                     </li>
-                                    <li><a href="contact.html">ติดต่อ</a></li>
+                                    <li><a href="#">ติดต่อ</a></li>
                                 </ul>
                             </nav>
                             <!--== End: Menu ==-->
