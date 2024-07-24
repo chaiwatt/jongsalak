@@ -1,14 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="csrf-token" content="{{ csrf_token() }}" />
         <title>โปรแกรมจองสลาก - โปรแกรมจองสลากสำหรับ Android และ iOS</title>
-        <meta name="robots" content="noindex, follow" />
-        <meta name="description" content="Droon - Drone Shop Single Product template" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="keywords" content="bootstrap ecommerce template" />
-        <meta name="author" content="hastech" />
+        <meta name="description" content="โปรแกรมจองสลาก - โปรแกรมจองสลากสำหรับ Android และ iOS">
+        <meta name="keywords" content="โปรแกรมจองสลาก,โปรแกรมจองหวย, โปรแกรมกดจองสลาก, กล่องจองสลาก, โปรแกรมจองสลาก iOS, โปรแกรมจองสลากแอนดรอยด์, , โปรแกรมจองสลากไม่รูท">
+        {{--
+        <link rel="canonical" href="{{urldecode(request()->url())}}" /> --}}
+        <meta property="og:locale" content="th_TH" />
+        <meta property="og:locale:alternate" content="en_US" />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="โปรแกรมจองสลาก - โปรแกรมจองสลากสำหรับ Android และ iOS" />
+        <meta property="og:description" content="โปรแกรมจองสลาก - โปรแกรมจองสลากสำหรับ Android และ iOS" />
+        <meta property="og:url" content="{{urldecode(request()->url())}}" />
+        <meta property="og:site_name" content="่jongsalak" />
+        <meta name="twitter:card" content="summary_large_image" />
     
         <!-- Favicon -->
         <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
