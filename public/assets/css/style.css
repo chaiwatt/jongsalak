@@ -2031,7 +2031,7 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
   }
 }
 .section-title2 .title {
-  font-weight: 500;
+  font-weight: 700;
   font-size: 45px;
   line-height: 45px;
   margin-bottom: 0;
@@ -3879,7 +3879,7 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
 
 .gallery-title {
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 700;
   margin-bottom: 10px;
 }
 
