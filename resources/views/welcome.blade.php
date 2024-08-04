@@ -126,11 +126,11 @@
 <div class="features-section bgc-fb section-padding" data-bg-img="assets/images/photos/bg1.webp">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-7">
                 <!--== Start: Section Title ==-->
                 <div class="section-title3">
                     <h2 class="title">คุณสมบัติ</h2>
-                    <p class="desc">A 5.5in 1080p screen integrated with the Phantom 4 Pro + offers 1000 cd/m2 of brightness, more than twice as bright as conve ntional smart devices. It makes bright, vivid colors easily visible in direct sunlight.</p>
+                    <p class="desc">โปรแกรมจองสลาก เป็นกล่องจองสลากควบคุมด้วยไมโครคอนโทรลเลอร์มีการทำงานโดยการจำลองการคลิกของคน โดยใช้หัวคลิกอิเล็กทรอนิกส์จำนวน 4 ตัวเพื่อควบคุมการคลิกในตำแหน่งต่าง ๆ นอกจากนี้ยังมีเซนเซอร์จับหน้าจอเพื่อตรวจสอบการเปลี่ยนแปลงของหน้าจอแอพเป๋าตังค์เพื่อให้โปรแกรมรู้ถึงขั้นตอนการทำงานของแอพ เพื่อที่จะสามารถคลิกได้อย่างถูกต้อง นอกจากนี้ยังสามารตั้งเวลาให้โปรแกรมทำงานอัตโนมัติและสามารถอัพเดทโปรแกรมเองได้เองผ่านอินเตอร์เน็ต</p>
                 </div>
                 <!--== End: Section Title ==-->
 
@@ -140,8 +140,8 @@
                             <img class="feature-box4-icon-img" src="assets/images/icons/1.webp" width="45" height="45" alt="Image">
                         </div>
                         <div class="feature-box4-content">
-                            <h4 class="feature-box4-title">หัวคลิกไฟฟ้า</h4>
-                            <p class="feature-box4-desc">หัวคลิกไฟฟ้า 4 ตัว</p>
+                            <h4 class="feature-box4-title">หัวคลิกอิเล็กทรอนิกส์</h4>
+                            <p class="feature-box4-desc">หัวคลิกอิเล็กทรอนิกส์ 4 ตัว</p>
                         </div>
                     </div>
                     <div class="feature-box4-item pe-4 mb-4">
@@ -193,7 +193,7 @@
                 </div>
                 <a class="btn btn-primary btn-radius btn-border mt-4" href="product.html">เพิ่มเติม</a>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-5">
                 <a href="product.html"><img src="assets/images/photos/photos2.webp" width="590" height="650" alt="Image"></a>
             </div>
         </div>
@@ -434,8 +434,8 @@
     <div class="container">
         <!--== Start: Section Title ==-->
         <div class="section-title2 mb-12 text-center mt-n2">
-            <h6 class="sub-title">Latest Blog</h6>
-            <h2 class="title">Featured Blog</h2>
+            <h6 class="sub-title">ข่าวสารและบทความ</h6>
+            <h2 class="title">บทความล่าสุด</h2>
         </div>
         <!--== End: Section Title ==-->
         <div class="row">
